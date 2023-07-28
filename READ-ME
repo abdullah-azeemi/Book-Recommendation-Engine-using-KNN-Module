@@ -1,0 +1,5 @@
+This machine learning project belongs to FreeCodeCamp.org and is part of their Machine Learning with Python certification. 
+The initial code for loading the dataset, preprocessing the data, and testing the book recommendation function was provided by FreeCodeCamp.org. 
+The project utilizes the K-Nearest Neighbors (KNN) algorithm to create personalized book recommendations based on user preferences and book ratings. 
+By leveraging the vast dataset containing 1.1 million ratings of 270,000 books by 90,000 users, 
+         the project demonstrates the effectiveness of KNN in delivering relevant book suggestions to users.
